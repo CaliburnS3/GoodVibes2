@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Celebration:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Celebration_jar</output-path>
+    <root id="archive" name="Celebration.jar">
+      <element id="module-output" name="GoodVibes" />
+    </root>
+  </artifact>
+</component>

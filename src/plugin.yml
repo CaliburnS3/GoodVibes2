@@ -1,0 +1,21 @@
+name: Celebration
+main: riz.celebration.main
+version: 0.0.1
+api-version: 1.18.2
+description: allows players to encourage others
+commands:
+   celebrate:
+     description: start a celebration for specific player.
+     usage: /celebrate [player]
+     permission: goodvibes.celebrate
+     permission-message: You don't have permission.
+   encourage:
+     description: encourage others on the server.
+     usage: /encourage [player]
+     permission: goodvibes.encourage
+     permission-message: You don't have permission.
+   rcelebrate:
+     description: start a celebration for a random player.
+     usage: /rcelebrate
+     permission: goodvibes.rcelebrate
+     permission-message: You don't have permission.
